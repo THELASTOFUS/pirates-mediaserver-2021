@@ -11,7 +11,7 @@ Install
 
 Just execute below code to install.
 
-`wget https://raw.githubusercontent.com/sayem314/pirates-mediaserver/master/jackett/jackett-install.sh -O - -o /dev/null|bash`
+`wget https://raw.githubusercontent.com/thelastofus/pirates-mediaserver-2021/master/jackett/jackett-install.sh -O - -o /dev/null|bash`
 
 
 Update
@@ -19,4 +19,4 @@ Update
 
 Just execute below code to update.
 
-`wget https://raw.githubusercontent.com/sayem314/pirates-mediaserver/master/jackett/jackett-update.sh -O - -o /dev/null|bash`
+`wget https://raw.githubusercontent.com/thelastofus/pirates-mediaserver-2021/master/jackett/jackett-update.sh -O - -o /dev/null|bash`
