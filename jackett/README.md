@@ -17,6 +17,4 @@ Just execute below code to install.
 Update
 ------
 
-Just execute below code to update.
-
-`wget https://raw.githubusercontent.com/thelastofus/pirates-mediaserver-2021/master/jackett/jackett-update.sh -O - -o /dev/null|bash`
+DOES NOT WORK - FETCHING WITH JACKETT FUCKED. 
