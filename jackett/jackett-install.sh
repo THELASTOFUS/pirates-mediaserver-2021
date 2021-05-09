@@ -30,8 +30,8 @@ cd $installdir || exit
 
 echo "Installing jackett. Please wait!"
 wget -q "https://github.com/Jackett/Jackett/releases/download/v0.18.7/Jackett.Binaries.Mono.tar.gz"
-tar -xzf Jackett.Binaries.*.Mono.tar.gz
-rm -f Jackett.Binaries.*.Mono.tar.gz
+tar -xzf Jackett.Binaries.Mono.tar.gz
+rm -f Jackett.Binaries.Mono.tar.gz
 chown -R $user:$user Jackett
 
 # Create startup service
