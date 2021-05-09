@@ -15,7 +15,9 @@ At this moment only following distros are supported.
 
 ## Install
 
-Fixed some things from the 4 year old one. Does not work for Jackett or Radarr... Plex and Qbittorrent NOT tested
+Fixed some things from the 4 year old one. Does not work for Jackett or Radarr... Plex NOT tested.
+
+QBITTORRENT REMOVED FOR THOSE WHO USE THE MORE OBVIOUS RUTORRENT/RTORRENT! 
 
 Just execute below code to install them all.
 
